@@ -1,0 +1,37 @@
+apply plugin: 'com.android.library'
+
+android {
+
+    compileSdkVersion rootProject.sdkVersion
+    buildToolsVersion rootProject.buildTools
+    resourcePrefix "okhttp3_"
+
+    defaultConfig {
+        targetSdkVersion rootProject.sdkVersion
+        minSdkVersion rootProject.minSdkVersion
+        versionCode 1
+        versionName "2.9.5.2"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+
+}
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-annotations:23.+'
+    compile 'com.squareup.okhttp3:okhttp:3.8.1'
+    compile 'com.google.code.gson:gson:2.8.1'
+    testCompile 'junit:junit:4.12'
+}
+//chmod +x gradlew
+//apply from: "bintrayUpload.gradle"

@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [:library] /Users/shenbinghong/Desktop/tastebychance/SFJ/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:17:1-31:12
+MERGED from [com.bigkoo:convenientbanner:2.0.5] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/convenientbanner-2.0.5.aar/d7851ff3eadd0b51ca7c5d4ebbac2bc9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.dyhdyh.loadingbar:loadingbar:1.4.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/loadingbar-1.4.4.aar/2105949c0625e35ceb5c43b1cc273976/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/584c965048c30ef6b1255bc8a0d41ce4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3e553683a44465193e4c95275456566/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/acbd967c682da1098fa5c975279a8cb1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5d79adaf43c95d205129409acff10460/AndroidManifest.xml:17:1-28:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9e1fd42578fd03d58236c15aec196316/AndroidManifest.xml:2:1-7:12
+MERGED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:2:1-16:12
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/crashreport-2.6.6.1.aar/ba573b76181996a9c7512e58e055c6f1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/nativecrashreport-3.3.1.aar/79ad84df105955912088a636f379a10d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/87221121a228549fe425a6564565dcb6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/742d4bec12983f4bee0478756c11cf64/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34af4c8f0473e8d932e1d35af54281c6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f54a4c938f264371de23b2c0b4ebd1f3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fbcf1a3e28aa18b14bc905746bdcc8c9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08a08cc5a26ca11b17e405b5908ea9ba/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c3f147bef548e91061af624872e5f2ab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7c1d00da7b318c6add6819843f424be3/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d3f503f4db07292e7436b625cef845b9/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:11:5-67
+MERGED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:8:22-73
+application
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:10:5-25:19
+MERGED from [:library] /Users/shenbinghong/Desktop/tastebychance/SFJ/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:library] /Users/shenbinghong/Desktop/tastebychance/SFJ/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/584c965048c30ef6b1255bc8a0d41ce4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/584c965048c30ef6b1255bc8a0d41ce4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3e553683a44465193e4c95275456566/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3e553683a44465193e4c95275456566/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/acbd967c682da1098fa5c975279a8cb1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/acbd967c682da1098fa5c975279a8cb1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5d79adaf43c95d205129409acff10460/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5d79adaf43c95d205129409acff10460/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/87221121a228549fe425a6564565dcb6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/87221121a228549fe425a6564565dcb6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/742d4bec12983f4bee0478756c11cf64/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/742d4bec12983f4bee0478756c11cf64/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34af4c8f0473e8d932e1d35af54281c6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34af4c8f0473e8d932e1d35af54281c6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f54a4c938f264371de23b2c0b4ebd1f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f54a4c938f264371de23b2c0b4ebd1f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fbcf1a3e28aa18b14bc905746bdcc8c9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fbcf1a3e28aa18b14bc905746bdcc8c9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08a08cc5a26ca11b17e405b5908ea9ba/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08a08cc5a26ca11b17e405b5908ea9ba/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c3f147bef548e91061af624872e5f2ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c3f147bef548e91061af624872e5f2ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7c1d00da7b318c6add6819843f424be3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7c1d00da7b318c6add6819843f424be3/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d3f503f4db07292e7436b625cef845b9/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d3f503f4db07292e7436b625cef845b9/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:11:9-38
+activity#com.tastebychance.sfj.HostActivity
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+MERGED from [:library] /Users/shenbinghong/Desktop/tastebychance/SFJ/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /Users/shenbinghong/Desktop/tastebychance/SFJ/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:21:5-23:62
+MERGED from [com.bigkoo:convenientbanner:2.0.5] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/convenientbanner-2.0.5.aar/d7851ff3eadd0b51ca7c5d4ebbac2bc9/AndroidManifest.xml:7:5-44
+MERGED from [com.bigkoo:convenientbanner:2.0.5] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/convenientbanner-2.0.5.aar/d7851ff3eadd0b51ca7c5d4ebbac2bc9/AndroidManifest.xml:7:5-44
+MERGED from [com.dyhdyh.loadingbar:loadingbar:1.4.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/loadingbar-1.4.4.aar/2105949c0625e35ceb5c43b1cc273976/AndroidManifest.xml:7:5-9:41
+MERGED from [com.dyhdyh.loadingbar:loadingbar:1.4.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/loadingbar-1.4.4.aar/2105949c0625e35ceb5c43b1cc273976/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/584c965048c30ef6b1255bc8a0d41ce4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/584c965048c30ef6b1255bc8a0d41ce4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3e553683a44465193e4c95275456566/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3e553683a44465193e4c95275456566/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/acbd967c682da1098fa5c975279a8cb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/acbd967c682da1098fa5c975279a8cb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5d79adaf43c95d205129409acff10460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5d79adaf43c95d205129409acff10460/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9e1fd42578fd03d58236c15aec196316/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9e1fd42578fd03d58236c15aec196316/AndroidManifest.xml:5:5-43
+MERGED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/crashreport-2.6.6.1.aar/ba573b76181996a9c7512e58e055c6f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/crashreport-2.6.6.1.aar/ba573b76181996a9c7512e58e055c6f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/nativecrashreport-3.3.1.aar/79ad84df105955912088a636f379a10d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/nativecrashreport-3.3.1.aar/79ad84df105955912088a636f379a10d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/87221121a228549fe425a6564565dcb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/87221121a228549fe425a6564565dcb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/742d4bec12983f4bee0478756c11cf64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/742d4bec12983f4bee0478756c11cf64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34af4c8f0473e8d932e1d35af54281c6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34af4c8f0473e8d932e1d35af54281c6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f54a4c938f264371de23b2c0b4ebd1f3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f54a4c938f264371de23b2c0b4ebd1f3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fbcf1a3e28aa18b14bc905746bdcc8c9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fbcf1a3e28aa18b14bc905746bdcc8c9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08a08cc5a26ca11b17e405b5908ea9ba/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08a08cc5a26ca11b17e405b5908ea9ba/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c3f147bef548e91061af624872e5f2ab/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c3f147bef548e91061af624872e5f2ab/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7c1d00da7b318c6add6819843f424be3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7c1d00da7b318c6add6819843f424be3/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d3f503f4db07292e7436b625cef845b9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d3f503f4db07292e7436b625cef845b9/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/584c965048c30ef6b1255bc8a0d41ce4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/584c965048c30ef6b1255bc8a0d41ce4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/acbd967c682da1098fa5c975279a8cb1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/acbd967c682da1098fa5c975279a8cb1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5d79adaf43c95d205129409acff10460/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5d79adaf43c95d205129409acff10460/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/87221121a228549fe425a6564565dcb6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/87221121a228549fe425a6564565dcb6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/742d4bec12983f4bee0478756c11cf64/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/742d4bec12983f4bee0478756c11cf64/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34af4c8f0473e8d932e1d35af54281c6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34af4c8f0473e8d932e1d35af54281c6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f54a4c938f264371de23b2c0b4ebd1f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f54a4c938f264371de23b2c0b4ebd1f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fbcf1a3e28aa18b14bc905746bdcc8c9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fbcf1a3e28aa18b14bc905746bdcc8c9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08a08cc5a26ca11b17e405b5908ea9ba/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08a08cc5a26ca11b17e405b5908ea9ba/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c3f147bef548e91061af624872e5f2ab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c3f147bef548e91061af624872e5f2ab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7c1d00da7b318c6add6819843f424be3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7c1d00da7b318c6add6819843f424be3/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9812f823acfff3cb4c9fc30dc9b7acda/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:12:5-80
+IMPLIED from /Users/shenbinghong/Desktop/tastebychance/SFJ/app/src/main/AndroidManifest.xml:2:1-27:12 reason: com.lzy.okgo requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from [com.lzy.net:okgo:2.1.4] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/okgo-2.1.4.aar/6bfe3dd24dfc5872a33dd01058eb0b57/AndroidManifest.xml:14:22-81
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d3f503f4db07292e7436b625cef845b9/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d3f503f4db07292e7436b625cef845b9/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shenbinghong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d3f503f4db07292e7436b625cef845b9/AndroidManifest.xml:26:13-58

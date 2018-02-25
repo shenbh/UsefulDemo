@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="de.greenrobot:eventbus-annotation-processor:3.0.0-beta1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus-annotation-processor/3.0.0-beta1/26c0a4f398627c0cf7bbf2ec2a2e4d3313def5c3/eventbus-annotation-processor-3.0.0-beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus-annotation-processor/3.0.0-beta1/4d1266fdde2db5664558ebfbb1e9fb46f5f1cec5/eventbus-annotation-processor-3.0.0-beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/okhttp3/bintrayUpload.gradle
+/okhttp3/local.properties
+/okhttp3/project.properties
+/README.md
