@@ -1,0 +1,169 @@
+.all{
+				width: 92%;
+				margin: 0 auto;
+			}
+			.titleBorder{
+				width: 100%;
+				border-bottom: 0.01rem solid #b6b6b6;
+			}
+			.title{
+				width: 96%;
+				position: relative;
+				font-size: 0.16rem;
+				line-height: 0.2rem;
+		    	padding: 0.15rem 0;
+		    	margin-left: 4%;
+		    	color: #585858;
+			}
+			.title span{
+				width: 0.07rem;
+				height: 0.2rem;
+				background:#053979 ;
+				position: absolute;
+				left: -0.14rem;
+			}
+			hr{
+				height: 0;
+				border-top: 0.01rem solid #b6b6b6;
+				
+			}
+			.receivePeople,.receiveDate{
+				font-size: 0.12rem;
+				color: #585858;
+				border-bottom: 0.01rem solid #d5d5d5;
+				padding: 0.12rem 0;
+			}
+			.receivePeople span{
+				font-size: 0.12rem;
+				color: #053979;
+			}
+			
+			 .content-title {
+	            color: #F2AE11;
+	            font-size: 0.14rem;
+	           
+	            text-align: center;
+	            font-weight: 500;
+	            line-height: 1.1;
+	            padding: 0.15rem;
+	        }
+	
+		   .content-title span {
+	            display: block;     /*设置为块级元素会独占一行形成上下居中的效果*/
+	            font-size: 0.14rem;
+	            color: #6c6c6c;
+	            position: relative;   /*定位横线（当横线的父元素）*/
+	        }
+	        .content-title span:before, .content-title span:after {
+	            content: '';                 /*CSS伪类用法*/
+	            position: absolute;         /*定位背景横线的位置*/
+	            top: 52%;
+	            background: #d5d5d5;       /*宽和高做出来的背景横线*/
+	            width: 14%;
+	            height: 0.01rem;
+	        }
+	        
+	        .content-title span:before{
+	            left: 29%;        /*调整背景横线的左右距离*/
+	        }
+	        .content-title span:after {
+	            right: 29%;
+	        }
+	        .content-character{
+	        	font-size: 0.14rem;
+	        	color: #6c6c6c;
+	        }
+	        .attachmentList{
+	        	margin-bottom: 0.4rem;
+	        }
+	        .attachmentList li{
+	        	overflow: hidden;
+	        	padding: 0.08rem 0;
+	        }
+	        .attachmentList img{
+	        	width: 0.2rem;
+	        	float: left;
+	        	padding: 0;
+	        	margin: 0;
+	        }
+	        
+	        .attachmentList a{
+	        	width: 88%;
+	        	display: block;
+	        	float: left;
+	        	font-size: 0.12rem;
+	        	color: #6c6c6c;
+	        	margin-top: 0.04rem;
+	        	margin-left: 0.08rem;
+	        	
+	        }
+	        .attachmentList a:hover{
+	        	color: #0365dd;
+	        	text-decoration: underline;
+	        }
+	        
+	        .imgBox,.vedioBox{
+	        	width: 100%;
+	        }
+	        .imgBox .imgList{
+	        	width: 22%;
+	        	display: inline-block;
+	        	height: 0.55rem;
+	        	position: relative;
+	        	margin-bottom: 0.1rem;
+	        }
+	        .imgBox .imgList a,img{
+	        	
+	        	width: 100%;
+	        	height: 100%;
+	        }
+	        .imgBox .loading{
+			    width: 100%;
+			    
+			    display: inline-block;
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    z-index: 3;
+			    background: #f9f9f9 url("img/loading24.gif") no-repeat center center;
+			}
+	        .vedioBox .vedioList{
+	        	width:99.5%;
+	        	height: 1.65rem;
+	        	position: relative;
+	        	margin: 0 auto;
+	        	margin-bottom: 0.1rem;
+	        }
+	        .vedioBox .vedioList video{
+	        	display: block;
+	        	width: 100%;
+	        	height: 100%;
+	        	
+	        }
+	        .my-video-dimensions{
+	        	width: 100%;
+	        	height: 100%;
+	        }
+	        .video-js .vjs-control{
+	        	width:3em;
+	        }
+	        .video-js .vjs-mute-control{
+	        	padding-left:0 ;padding-right:0 ;
+	        }
+	        .video-js .vjs-big-play-button {
+			    font-size: 3em;
+			    
+			    height: 0.5rem;
+			    width: 0.5rem;
+			    line-height: 0.5rem;
+			   
+			    top: 50%;
+			    left: 50%;
+			    margin-left: -0.25rem;
+			    margin-top: -0.25rem;
+			    border-radius: 50%;
+			    -webkit-border-radius: 50%;
+			    -moz-border-radius: 50%;
+			    
+			   
+			}

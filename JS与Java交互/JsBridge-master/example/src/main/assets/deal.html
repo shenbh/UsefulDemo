@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+          name="viewport"/>
+    <!-- 删除默认的苹果工具栏和菜单栏 -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- 在web app应用下状态条（屏幕顶部条）的颜色 -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <!-- 禁止了把数字转化为拨号链接 -->
+    <meta name="format-detection" content="telephone=no">
+    <title>处理</title>
+    <link rel="stylesheet" href="css/common.css"/>
+    <link rel="stylesheet" href="css/iconfont.css"/>
+    <script type="text/javascript" src="js/jquery-1.11.1.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <style>
+            #all{
+            	width: 94%;
+            	margin: 0 auto;
+
+            }
+            #all p{
+            	width: 95%;
+            	float: right;
+            	font-size: 0.14rem;
+            	position: relative;
+            	margin: 0.05rem 0;
+            	color: #737373;
+            }
+            #all p.character-gray{
+            	color: #a6a6a6;
+            }
+            #all span{
+            	width: 0.05rem;
+				height: 100%;
+				background:#053979 ;
+				position: absolute;
+				left: -0.14rem;
+            }
+
+            #all .changeShenPi-btn{
+            	display: block;
+            	color: #053979;
+            	background: white;
+            	border: 0.01rem solid #053979;
+            	border-radius: 0.05rem;
+            	-webkit-border-radius: 0.05rem;
+            	-moz-border-radius: 0.05rem;
+            	font-size: 0.16rem;
+            	padding: 0.05rem 0.16rem;
+            	margin:0.3rem auto 0.5rem;
+            	-webkit-tap-highlight-color: rgba(0,0,0,0);
+            }
+            .shenheBtnBox{
+            	width: 100%;
+            	height: 0.45rem;
+            	position: fixed;
+            	bottom: 0;
+            	left: 0;
+            	overflow: hidden;
+                border-top: 1px solid #f0f0f0;
+            }
+            .shenheBtnBox a{
+            	display: block;
+            	width: 50%;
+            	height: 100%;
+            	border: none;
+            	background: white;
+            	float: left;
+            	color: #ababab;
+            	FILTER: alpha(opacity=0);
+            	-webkit-tap-highlight-color: rgba(0,0,0,0);
+            }
+            .shenheBtnBox img{
+            	display: block;
+            	width: 1rem;
+            	height: auto;
+            	margin: 0 auto;
+            	height: auto;
+            	margin-top: 0.08rem;
+            }
+
+
+
+
+    </style>
+</head>
+<body>
+<div id="all">
+    <p>
+        类型
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        申请时间
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        姓名
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        身份证号
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        罪名
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        矫正起止日期
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        事由及去处
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        事由及去处
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        事由及去处
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <p>
+        矫正起止日期
+        <span></span>
+    </p>
+    <p class="character-gray">
+        社区矫正-帮扶教育-免除配备定位手机
+    </p>
+    <div style="clear: both; margin-bottom: 0.45rem;"></div>
+
+
+    <input class="changeShenPi-btn" type="button" value="变更审批人" onclick="Native.callme1">
+
+
+</div>
+
+<div class="shenheBtnBox">
+    <!--<input class="shenhePass-btn" type="button" value="审核通过" onclick="Native.callme('jS开始调用OC本地Native咯')">
+    <input class="bohui-btn" type="button" value="驳回申请" onclick="Native.callme('jS开始调用OC本地Native咯')">-->
+    <!--  <a class="shenhePass-btn" href="javascript:;" onclick="Native.callme2()">
+         <img src="/api_static/img/送花tgBtn.png" />
+     </a>
+     <a class="bohui-btn" href="javascript:;" onclick="Native.callme3()">
+         <img src="/api_static/img/bhsqBtn.png" />
+     </a> -->
+</div>
+
+<script type="text/javascript" src="/api_static/js/layer.js"></script>
+<script>
+var u = navigator.userAgent, app = navigator.appVersion;
+var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //android终端或者uc浏览器
+var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
+var type = '$info.type';
+if(isAndroid==true){
+	if(type !==1){
+		$('#all').append('<input class="changeShenPi-btn" type="button" value="变更审批人" onclick="javascript:callme1()">')
+	}
+	$('.shenheBtnBox').append('<a class="shenhePass-btn" href="javascript:;" onclick="javascript:callme2()"><img src="img/送花tgBtn.png" /></a><a class="bohui-btn" href="javascript:;" onclick="javascript:callme3()"><img src="img/bhsqBtn.png" /></a>')
+
+}else if(isiOS==true){
+	if(type !==1){
+		$('#all').append('<input class="changeShenPi-btn" type="button" value="变更审批人" onclick="Native:callme1()">')
+	}
+	$('.shenheBtnBox').append('<a class="shenhePass-btn" href="javascript:;" onclick="Native.callme2()"><img src="img/送花tgBtn.png" /></a><a class="bohui-btn" href="javascript:;" onclick="Native.callme3()"><img src="img/bhsqBtn.png" /></a>')
+}
+</script>
+
+<script>
+    function callme1() {
+        window.toastandroid.callme1();
+    }
+    function callme2() {
+        window.toastandroid.callme2();
+    }
+    function callme3() {
+        window.toastandroid.callme3();
+    }
+</script>
+</body>
+</html>

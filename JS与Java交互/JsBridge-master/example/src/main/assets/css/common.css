@@ -1,0 +1,44 @@
+    *{font-size: 16px;font-family: "微软雅黑";}
+	body,h1,h2,h3,h4,h5,h6,form,dl,p,menu{
+        padding: 0;
+        margin: 0;
+    }
+    ul,li{
+    	 padding: 0;
+        margin: 0;
+        list-style-type: none;
+    }
+    /*table {
+		border-collapse: collapse;
+		border-spacing: 0;
+    }*/
+    a{
+    	
+    	text-decoration: none;
+    }
+    a:hover, a:visited, a:link, a:active {
+     color: black;
+    }
+    a:link {color: black}     /* 未访问的链接 */
+a:visited {color: black}  /* 已访问的链接 */
+a:hover {color:black}    /* 当有鼠标悬停在链接上 */
+a:active {color: black}   /* 被选择的链接 */
+  iframe,menu,footer
+  {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+   }
+   input{
+   	border: none;
+	outline: none;
+   	appearance: none;
+   	-webkit-appearance: none;
+   	-moz-appearance: none;
+   }
+   
+   
+  
