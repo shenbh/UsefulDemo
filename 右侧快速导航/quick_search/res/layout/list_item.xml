@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/qqservice_first_word_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:textSize="18sp" />
+	<View
+	     android:id="@+id/qqservice_first_word_view"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/border_gray_ed" />
+    <TextView
+        android:id="@+id/qqservice_item_name_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="名称"
+        android:padding="15dp"
+        android:background="#fff"
+        android:textColor="@color/igray_et_66"
+        android:textSize="18sp" />
+
+    
+    
+</LinearLayout>

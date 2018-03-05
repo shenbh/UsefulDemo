@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="border_gray_ed">#ffededed</color>
+	
+	<color name="igray_et_66">#f666</color><!--浅灰-->
+	<color name="igrayF9">#ffF9F9F9</color><!--浅灰-->
+	
+</resources>
