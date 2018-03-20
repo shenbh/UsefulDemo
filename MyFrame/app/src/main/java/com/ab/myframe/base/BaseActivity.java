@@ -5,6 +5,7 @@ import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
 import com.ab.myframe.R;
@@ -14,7 +15,7 @@ import com.ab.myframe.R;
  * Created by shenbinghong on 2018/3/9.
  */
 
-public class BaseActivity extends Activity implements BaseView {
+public class BaseActivity extends AppCompatActivity implements BaseView {
     private ProgressDialog progressDialog;
 
     @Override
