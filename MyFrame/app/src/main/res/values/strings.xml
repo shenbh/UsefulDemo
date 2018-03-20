@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFrame</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_mine">Mine</string>
+    <string name="loading">"正在加载数据"</string>
+    <string name="api_error_msg">网络请求数据出现异常</string>
+</resources>
