@@ -1,4 +1,0 @@
-#Tue Jan 30 19:55:05 CST 2018
-base.0=/Users/shenbinghong/Desktop/tastebychance/SFJ/app/build/intermediates/transforms/dexMerger/debug/2
-path.0=classes.dex
-renamed.0=classes.dex
